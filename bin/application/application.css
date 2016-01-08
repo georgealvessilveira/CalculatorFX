@@ -35,3 +35,7 @@
 .management:pressed {
 	-fx-background-color: rgb(178 ,178, 178);
 }
+
+#plusMinus, #ac {
+	-fx-font-size: 19px;
+}
